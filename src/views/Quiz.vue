@@ -32,24 +32,34 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 var quiz = {
 	questions: [
 		{
-			question: "How many planets in our Solar System?",
+			question: "5 + 5 =",
 			choices: [
-				{ text: '8', value: 'A' },
-				{ text: '9', value: 'B' },
-				{ text: '8', value: 'C' },
-				{ text: '7', value: 'D' }
+				{ text: '10', value: 'A' },
+				{ text: '11', value: 'B' },
+				{ text: '12', value: 'C' },
+				{ text: '13', value: 'D' }
 			],
 			correct: 'A'
 		},
 		{
-			question: "What is the hottest planet in our Solar System?",
+			question: "300 + 100?",
 			choices: [
-				{ text: 'Mercury', value: 'A' },
-				{ text: 'Mars', value: 'B' },
-				{ text: 'Sun', value: 'C' },
-				{ text: 'Venus', value: 'D' }
+				{ text: '200', value: 'A' },
+				{ text: '300', value: 'B' },
+				{ text: '400', value: 'C' },
+				{ text: '500', value: 'D' }
 			],
-			correct: 'D'
+			correct: 'C'
+		},
+		{
+			question: "500 - 200?",
+			choices: [
+				{ text: '200', value: 'A' },
+				{ text: '300', value: 'B' },
+				{ text: '400', value: 'C' },
+				{ text: '500', value: 'D' }
+			],
+			correct: 'B'
 		}
 	]
 };
