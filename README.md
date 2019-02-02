@@ -1,29 +1,31 @@
-# quizvue
+# Vue Quiz
 
-## Project setup
+Tugas Pemrograman Web Dinamis Berbasis Vue JS
+
+## Getting Started
+
+Bacalah Intruksi Dibawah Ini Agar Projek Dapat Dijalankan Dengan Lancar.
+
+### Prerequisites
+
+Yang Dibutuhkan
+
+```
+NPM
+```
+
+### Installing
+
+Pertama
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Kedua
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Authors
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* **M. Panji Wiramanik** - (https://github.com/panjiwiramanik)
