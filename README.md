@@ -1,6 +1,9 @@
 # Vue Quiz
 
-Tugas Pemrograman Web Dinamis Berbasis Vue JS
+Tugas Pemrograman Web Dinamis Berbasis Vue JS, Menggunakan :
+⋅⋅* Bootstrap Vue
+⋅⋅* Vue Router
+⋅⋅* VUEX
 
 ## Getting Started
 
@@ -18,12 +21,22 @@ NPM
 
 Pertama
 ```
-npm install
+git clone https://github.com/panjiwiramanik/Quiz-Vue.git
 ```
 
 Kedua
 ```
-npm run serve
+cd Quiz-Vue
+```
+
+Ketiga
+```
+npm install
+```
+
+Keempat
+```
+npm runs serve
 ```
 
 ## Authors
