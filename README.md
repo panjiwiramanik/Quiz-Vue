@@ -1,9 +1,9 @@
 # Vue Quiz
 
 Tugas Pemrograman Web Dinamis Berbasis Vue JS, Menggunakan :
-⋅⋅* Bootstrap Vue
-⋅⋅* Vue Router
-⋅⋅* VUEX
+* Bootstrap Vue
+* Vue Router
+* VUEX
 
 ## Getting Started
 
