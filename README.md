@@ -42,7 +42,7 @@ npm run serve
 
 ## Explaining
 
-1. ![image main.js](https://gitlab.com/Panjiwiramanik/vuequiz/blob/master/image/1.png "image main.js")
+1. ![image main.js](https://drive.google.com/file/d/1Q1HQXW2dvbo-E761nWVxbIuvTRbxPW5b/view?usp=sharing "image main.js")
 
 Dalam file main.js, import file *router* dan *store* lalu masukan ke instance *Vue*
 
