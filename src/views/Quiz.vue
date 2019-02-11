@@ -29,7 +29,6 @@
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import 'es6-promise/auto'
-
 export default {
 	name: 'Quiz',
 	computed: {
@@ -65,7 +64,6 @@ export default {
 				picked
 			})
 		},
-		
 	}
 }
 </script>
