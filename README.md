@@ -42,11 +42,11 @@ npm run serve
 
 ## Explaining
 
-1. ![image main.js](https://gitlab.com/Panjiwiramanik/vuequiz/blob/master/image/1.png "image main.js")
+1. ![image main.js](https://i.imgur.com/vYR49qO.png "image main.js")
 
 Dalam file main.js, import file *router* dan *store* lalu masukan ke instance *Vue*
 
-2. ![image router.js](https://gitlab.com/Panjiwiramanik/vuequiz/blob/master/image/2.png "image router.js")
+2. ![image router.js](https://i.imgur.com/V2uGIne.png "image router.js")
 
 Dalam file router.js, import *vue-router* dari plugin, import views *home* dan *quiz*.
 ```
@@ -68,7 +68,7 @@ export default new Router({ // data yang di export ke main.js
 })
 ```
 
-3. ![image store.js](https://gitlab.com/Panjiwiramanik/vuequiz/blob/master/image/3.png "image store.js")
+3. ![image store.js](https://i.imgur.com/iZcn9vN.png "image store.js")
 
 Dalam file store.js, import *Vuex* dari plugin,
 ```
@@ -113,7 +113,7 @@ export const store = new Vuex.Store({ // data yang di export ke main.js
 });
 ```
 
-4. ![view script Quiz.vue](https://gitlab.com/Panjiwiramanik/vuequiz/blob/master/image/5.png "view script Quiz.vue")
+4. ![view script Quiz.vue](https://i.imgur.com/RwLVahD.png "view script Quiz.vue")
 
 ```
 <script>
